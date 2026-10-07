@@ -1,0 +1,9 @@
+{
+  "schema": "neo-orchestrax/project-board-app@1",
+  "app": "neo-project-board",
+  "name": "Neo Project Board",
+  "version": "0.4.0",
+  "projectHub": "..",
+  "contract": "neo-orchestrax/project-board@1",
+  "runtime": "local-vite-node"
+}
